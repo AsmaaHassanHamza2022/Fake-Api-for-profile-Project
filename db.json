@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "FullName": "MohammedAhmed",
+      "Email": "mohamd@mail.com",
+      "Gender": "Male",
+      "Age": 20,
+      "EmairatesIdNumber": "123",
+      "Nationality": "Australian",
+      "phone": 345665556,
+      "Emirate": "Dubai",
+      "profileImage": "twiiter.jfif",
+      "password": "UEA pass",
+      "id": 1
+    },
+    {}
+  ]
+}
